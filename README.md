@@ -21,8 +21,5 @@ https://www.coursera.org/course/progfun
 Stanford - Intro to Probablistic Graphical Models:
 https://www.coursera.org/course/pgm
 
-Dan Povey - Speech Recognition with Kaldi:
-http://www.danielpovey.com/kaldi-lectures.html
-
 NYU/Yann LeCun - Deep Learning Course:
 http://cilvr.cs.nyu.edu/doku.php?id=deeplearning:slides:start
