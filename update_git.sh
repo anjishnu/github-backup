@@ -3,6 +3,7 @@ CALLING_DIR=`pwd`
 #DIR=$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )
 DIR=`dirname "$0"`
 cd $DIR
+git pull
 ./sample_cmd.sh
 git add *
 git commit -m "latest update"
